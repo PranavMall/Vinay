@@ -53,6 +53,8 @@ body {
   min-height: 100vh;
 /*   background: #1abc9c;
   background-image: linear-gradient(to top left, #9b59b6, #1abc9c); */
+  background-image: url("img/Wedding/10.jpg");
+  backdrop-filter: blur(8px);
   font-family: arial;
   position: relative;
   text-align: center;
