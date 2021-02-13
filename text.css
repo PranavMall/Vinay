@@ -58,6 +58,7 @@ body {
   font-family: arial;
   position: relative;
   text-align: center;
+  background-size: cover;
 }
 
 /* HEADER */
@@ -217,7 +218,7 @@ footer p a:hover {
   position: absolute;
   top: 0;
   left: 0;
-  height: 100vh;
+  height: 100%;
   width: 100%;
   display: flex;
   flex-direction: column;
